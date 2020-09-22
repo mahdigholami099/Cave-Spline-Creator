@@ -2,7 +2,7 @@
 This is a blender add-on **Cave Creator** that you can easily create cave spline mesh for your project like ue4 cave spline.
 
 ## Install
-Download the code then open your blender and go to **Edit/Preferences/Add-ons** and click install and then find the file that you download lately, then you can search for **Cave Creator** and enable it.
+Download the **caveCreator.py** then open your blender and go to **Edit/Preferences/Add-ons** and click install and then find the file that you download lately, then you can search for **Cave Creator** and enable it.
 
 ## How To Use
 Press **N** to open your tool shelf and look for the **Cave Creator** tab.
